@@ -3,7 +3,7 @@ Contributors: themesdaddy
 Requires at least: 4.5
 Tested up to: 7.1
 Requires PHP: 5.4
-Stable tag: 1.0.53
+Stable tag: 1.0.54
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl.html
 Tags: one-column, two-columns, right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, post-formats, theme-options, threaded-comments, rtl-language-support, translation-ready, full-width-template, custom-logo, blog, e-commerce, portfolio
@@ -62,6 +62,9 @@ License: CC0 Public Domain(https://stocksnap.io/license)
 Source: https://stocksnap.io/photo/macbook-laptop-LEJ7HJ5BEA
 
 == Changelog ==
+
+@Version 1.0.54
+* Fixed Theme Check Plugin Issue
 
 @Version 1.0.53
 * Tested With WordPress 7.1.1
